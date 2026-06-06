@@ -11,7 +11,7 @@ from aiogram.fsm.state import State, StatesGroup
 from aiogram.fsm.storage.memory import MemoryStorage
 
 # --- الثوابت الأساسية لمتجر DroV ---
-TOKEN = "8901226826:AAGutFtTe7UsVb0HhkMgysWj4gdrbP_dzMw"
+TOKEN = "8901226826:AAEjt55gEpJ4LyaBKr0ts4rYv3QIBjl_H2E"
 ADMIN_ID = 8333784255
 CHANNEL_URL = "https://t.me/drov70"
 LOG_CHANNEL_ID = -1002242131908  # آيدي قناتك ل Log المبيعات
